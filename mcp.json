@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "ryze-ai": {
+      "url": "https://connector.get-ryze.ai/mcp"
+    }
+  }
+}
