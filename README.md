@@ -16,7 +16,7 @@ Read tools are read-only. Destructive operations are flagged and need item-by-it
 
 ## Requirements
 
-A Ryze AI account (free trial at [app.get-ryze.ai](https://app.get-ryze.ai)) with at least one platform connected. Tools shown depend on what your workspace has connected. On first use, Cursor opens the Ryze sign-in (OAuth) to link your workspace.
+A Ryze AI account (free trial at [get-ryze.ai](https://www.get-ryze.ai)) with at least one platform connected. Tools shown depend on what your workspace has connected. On first use, Cursor opens the Ryze sign-in (OAuth) to link your workspace.
 
 ## Links
 
