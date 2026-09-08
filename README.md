@@ -1,5 +1,23 @@
 # Ryze AI — Cursor Plugin
 
+## Install
+
+[![Install in Cursor](https://img.shields.io/badge/Cursor-Install%20Ryze%20https://connector.get-ryze.ai/mcp-000000?logo=cursor&logoColor=white)](cursor://anysphere.cursor-deeplink/mcp/install?name=ryze-ai&config=eyJ1cmwiOiAiaHR0cHM6Ly9jb25uZWN0b3IuZ2V0LXJ5emUuYWkvbWNwIn0=)
+
+Or by hand: **Cursor › Settings › https://connector.get-ryze.ai/mcp › Add new https://connector.get-ryze.ai/mcp server**, type `http`, URL:
+
+```
+https://connector.get-ryze.ai/mcp
+```
+
+Or drop this into `.cursor/mcp.json` in your project (same content as [mcp.json](mcp.json)):
+
+```json
+{ "mcpServers": { "ryze-ai": { "url": "https://connector.get-ryze.ai/mcp" } } }
+```
+
+Cursor opens a browser tab; sign in with the Google or Facebook account that owns the ads. Free, no API keys. Also works in Claude Code: `claude mcp add ryze --transport http https://connector.get-ryze.ai/mcp`. [Setup guide with screenshots →](https://www.get-ryze.ai/how-to-connect-claude-to-google-meta-ads-mcp)
+
 Ryze AI is the MCP connector for paid ads and SEO. Connect Google Ads, Meta Ads (Facebook & Instagram Ads), Google Analytics 4, Google Search Console, Google Merchant Center, Shopify, HubSpot, PostHog, Webflow and OpenAI (ChatGPT) Ads to one Ryze workspace, then audit, report and optimize all of them from a single Cursor conversation.
 
 ## What you can do
