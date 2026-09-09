@@ -1,5 +1,7 @@
 # Ryze AI — Cursor Plugin
 
+Product pages: [Google Ads MCP](https://www.get-ryze.ai/google-ads-mcp) · [Meta Ads MCP](https://www.get-ryze.ai/meta-ads-mcp)
+
 ## Install
 
 [![Install in Cursor](https://img.shields.io/badge/Cursor-Install%20Ryze%20https://connector.get-ryze.ai/mcp-000000?logo=cursor&logoColor=white)](cursor://anysphere.cursor-deeplink/mcp/install?name=ryze-ai&config=eyJ1cmwiOiAiaHR0cHM6Ly9jb25uZWN0b3IuZ2V0LXJ5emUuYWkvbWNwIn0=)
