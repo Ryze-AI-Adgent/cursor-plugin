@@ -1,6 +1,6 @@
 {
   "name": "ryze-ai",
-  "description": "Google Ads, Meta Ads, GA4, Search Console, SEO/GEO/AEO in Cursor — audit, report, optimize ads and rankings",
-  "version": "1.0.0",
+  "description": "Connect Google Ads and Meta Ads, then pull GA4, Search Console, and SEO/GEO/AEO in the same workspace. Audit campaigns and rankings, find wasted spend, inspect indexing, track AI-referral traffic, and report paid + organic performance — one connector for ads and search, not ads-only.",
+  "version": "1.1.0",
   "author": { "name": "Ryze AI", "email": "hello@get-ryze.ai", "url": "https://www.get-ryze.ai" }
 }
