@@ -6,7 +6,7 @@ Product pages: [Google Ads MCP](https://www.get-ryze.ai/google-ads-mcp) · [Meta
 
 [![Install in Cursor](https://img.shields.io/badge/Cursor-Install%20Ryze%20https://connector.get-ryze.ai/mcp-000000?logo=cursor&logoColor=white)](cursor://anysphere.cursor-deeplink/mcp/install?name=ryze-ai&config=eyJ1cmwiOiAiaHR0cHM6Ly9jb25uZWN0b3IuZ2V0LXJ5emUuYWkvbWNwIn0=)
 
-Or by hand: **Cursor › Settings › https://connector.get-ryze.ai/mcp › Add new https://connector.get-ryze.ai/mcp server**, type `http`, URL:
+Or by hand: **Cursor › Settings › MCP › Add new MCP server**, type `http`, URL:
 
 ```
 https://connector.get-ryze.ai/mcp
