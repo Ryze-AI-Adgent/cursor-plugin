@@ -1,4 +1,4 @@
-# Ryze AI — Cursor Plugin
+# Ryze AI: Google Ads, Meta Ads, SEO — Cursor Plugin
 
 Product pages: [Google Ads MCP](https://www.get-ryze.ai/google-ads-mcp) · [Meta Ads MCP](https://www.get-ryze.ai/meta-ads-mcp)
 
