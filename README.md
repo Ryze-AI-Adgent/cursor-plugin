@@ -4,6 +4,10 @@ Product pages: [Google Ads MCP](https://www.get-ryze.ai/google-ads-mcp) · [Meta
 
 ## Install
 
+**In Grok Bot:** Ryze AI is a built-in connector. Open **Connect Apps**, search `Ryze AI`, click **Add**, sign in and pick your workspaces. No custom MCP server needed. [Grok Bot guide →](https://www.get-ryze.ai/grok)
+
+**In Cursor:**
+
 [![Install in Cursor](https://img.shields.io/badge/Cursor-Install%20Ryze%20https://connector.get-ryze.ai/mcp-000000?logo=cursor&logoColor=white)](cursor://anysphere.cursor-deeplink/mcp/install?name=ryze-ai&config=eyJ1cmwiOiAiaHR0cHM6Ly9jb25uZWN0b3IuZ2V0LXJ5emUuYWkvbWNwIn0=)
 
 Or by hand: **Cursor › Settings › MCP › Add new MCP server**, type `http`, URL:
@@ -42,5 +46,6 @@ A Ryze AI account (free trial at [get-ryze.ai](https://www.get-ryze.ai)) with at
 
 - [Website](https://www.get-ryze.ai/)
 - [Setup guide](https://www.get-ryze.ai/how-to-connect-claude-to-google-meta-ads-mcp)
+- [Grok Bot guide](https://www.get-ryze.ai/grok)
 - [Privacy policy](https://www.get-ryze.ai/privacy)
 - Support: hello@get-ryze.ai
