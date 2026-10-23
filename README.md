@@ -40,11 +40,11 @@ Read tools are read-only. Destructive operations are flagged and need item-by-it
 
 ## Requirements
 
-A Ryze AI account (free trial at [get-ryze.ai](https://www.get-ryze.ai)) with at least one platform connected. Tools shown depend on what your workspace has connected. On first use, Cursor opens the Ryze sign-in (OAuth) to link your workspace.
+A Ryze AI account (free trial at [get-ryze.ai](https://www.get-ryze.ai/how-to-connect-claude-to-google-meta-ads-mcp?utm_source=github&utm_content=cursor-plugin) with at least one platform connected. Tools shown depend on what your workspace has connected. On first use, Cursor opens the Ryze sign-in (OAuth) to link your workspace.
 
 ## Links
 
-- [Website](https://www.get-ryze.ai/grok)
+- [Website](https://www.get-ryze.ai/how-to-connect-claude-to-google-meta-ads-mcp?utm_source=github&utm_content=cursor-plugin)
 - [Setup guide](https://help.get-ryze.ai/grok/connect)
 - [Privacy policy](https://www.get-ryze.ai/privacy)
 - Support: hello@get-ryze.ai
