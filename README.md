@@ -1,10 +1,10 @@
 # Ryze AI: Google Ads, Meta Ads, SEO — Cursor Plugin
 
-Product pages: [Google Ads MCP](https://www.get-ryze.ai/google-ads-mcp) · [Meta Ads MCP](https://www.get-ryze.ai/meta-ads-mcp)
+Product pages: [Google Ads MCP](https://www.get-ryze.ai/google-ads-mcp?utm_source=github&utm_content=cursor-plugin) · [Meta Ads MCP](https://www.get-ryze.ai/meta-ads-mcp?utm_source=github&utm_content=cursor-plugin)
 
 ## Install
 
-**In Grok Bot:** Ryze AI is a built-in connector. Open **Connect Apps**, search `Ryze AI`, click **Add**, sign in and pick your workspaces. No custom MCP server needed. [Grok Bot guide →](https://www.get-ryze.ai/grok) · [Step-by-step with screenshots →](https://help.get-ryze.ai/grok/connect)
+**In Grok Bot:** Ryze AI is a built-in connector. Open **Connect Apps**, search `Ryze AI`, click **Add**, sign in and pick your workspaces. No custom MCP server needed. [Grok Bot guide →](https://www.get-ryze.ai/grok?utm_source=github&utm_content=cursor-plugin) · [Step-by-step with screenshots →](https://help.get-ryze.ai/grok/connect)
 
 **In Cursor:**
 
@@ -46,5 +46,5 @@ A Ryze AI account (free trial at [get-ryze.ai](https://www.get-ryze.ai/how-to-co
 
 - [Website](https://www.get-ryze.ai/how-to-connect-claude-to-google-meta-ads-mcp?utm_source=github&utm_content=cursor-plugin)
 - [Setup guide](https://help.get-ryze.ai/grok/connect)
-- [Privacy policy](https://www.get-ryze.ai/privacy)
+- [Privacy policy](https://www.get-ryze.ai/privacy?utm_source=github&utm_content=cursor-plugin)
 - Support: hello@get-ryze.ai
